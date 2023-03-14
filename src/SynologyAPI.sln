@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SynologyAPI", "SynologyAPI\SynologyAPI.csproj", "{197A0446-1ED3-45A3-B8CF-A1EAEB571504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197A0446-1ED3-45A3-B8CF-A1EAEB571504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197A0446-1ED3-45A3-B8CF-A1EAEB571504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197A0446-1ED3-45A3-B8CF-A1EAEB571504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197A0446-1ED3-45A3-B8CF-A1EAEB571504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEFF5777-83F0-494D-B596-885640DE2433}
+	EndGlobalSection
+EndGlobal
